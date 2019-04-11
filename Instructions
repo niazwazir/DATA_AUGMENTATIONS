@@ -1,0 +1,4 @@
+First Put Images in BSD200 Folder
+Open Terminal
+workon cv
+python augmentation.py 
